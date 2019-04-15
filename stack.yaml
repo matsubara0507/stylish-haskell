@@ -2,3 +2,5 @@ flags: {}
 packages:
 - '.'
 resolver: lts-13.0
+extra-deps:
+- haskell-src-exts-1.21.0
